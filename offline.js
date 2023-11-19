@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1700417222,
+	"version": 1700424282,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -20,6 +20,9 @@
 		"images/babidze-sheet0.png",
 		"images/sprite7-sheet0.png",
 		"images/picsart_-sheet0.png",
+		"images/photo_20231119_-sheet0.png",
+		"images/picsart_2-sheet0.png",
+		"images/photo_20231120_-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
